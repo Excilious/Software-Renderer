@@ -1,0 +1,1 @@
+A basic software renderer using GDI32. Some attempts would be made to use assembly for some faster software rendering. So far using brezenhams line algorithm for line placement alongside triangle edge case rasterization.
